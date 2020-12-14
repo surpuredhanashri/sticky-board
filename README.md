@@ -4,7 +4,11 @@
 
 ### Description
 
-A simple app to write anything on the board. The notes will be saved to localStorage so don't write anything confidential or private on it. Built for a react draggable tutorial.
+A simple app to write anything on the board. The notes will be saved to localStorage so don't write anything confidential or private on it. This app can do the following:
+
+- Allows user to type something in an input and press ENTER to generate a note of a random colour.
+- Allows user to drag the note anywhere. Its position, colour and content will be saved even after the user exits the app.
+- Allows the user to delete the note by clicking on the top-right 'X' button.
 
 Use it for:
 
