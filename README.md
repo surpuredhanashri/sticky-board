@@ -1,4 +1,4 @@
-## Bulletin Board
+## Sticky Board
 
 <img src = "./src/image.PNG">
 
